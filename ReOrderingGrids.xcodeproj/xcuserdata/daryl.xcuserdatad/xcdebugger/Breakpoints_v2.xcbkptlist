@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8ECEED63-60E9-4CAD-B491-AE26AB64D9D1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B706029-DD20-4353-BFEB-241F0B56FE84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReOrderingGrids/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9B706029-DD20-4353-BFEB-241F0B56FE84 - 7def4f93c5816574"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.dropDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: CoreTransferable.Transferable&gt;(for: &#x3c4;_1_0.Type, action: (Swift.Array&lt;&#x3c4;_1_0&gt;, __C.CGPoint) -&gt; Swift.Bool, isTargeted: (Swift.Bool) -&gt; ()) -&gt; some&gt;&gt;.0&gt;&gt; in ReOrderingGrids.ContentView.body.getter : some"
+                  moduleName = "ReOrderingGrids"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daryl/code/SwiftUI/ReOrderingGrids/ReOrderingGrids/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "9B706029-DD20-4353-BFEB-241F0B56FE84 - cdd01d87fd029494"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.dropDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: CoreTransferable.Transferable&gt;(for: &#x3c4;_1_0.Type, action: (Swift.Array&lt;&#x3c4;_1_0&gt;, __C.CGPoint) -&gt; Swift.Bool, isTargeted: (Swift.Bool) -&gt; ()) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.dropDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: CoreTransferable.Transferable&gt;(for: &#x3c4;_1_0.Type, action: (Swift.Array&lt;&#x3c4;_1_0&gt;, __C.CGPoint) -&gt; Swift.Bool, isTargeted: (Swift.Bool) -&gt; ()) -&gt; some&gt;&gt;.0&gt;&gt; in ReOrderingGrids.ContentView.body.getter : some"
+                  moduleName = "ReOrderingGrids"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daryl/code/SwiftUI/ReOrderingGrids/ReOrderingGrids/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "9B706029-DD20-4353-BFEB-241F0B56FE84 - e3bc988fddab1f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.dropDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: CoreTransferable.Transferable&gt;(for: &#x3c4;_1_0.Type, action: (Swift.Array&lt;&#x3c4;_1_0&gt;, __C.CGPoint) -&gt; Swift.Bool, isTargeted: (Swift.Bool) -&gt; ()) -&gt; some&gt;&gt;.0&gt;&gt;, SwiftUI.Spacer)&gt; in ReOrderingGrids.ContentView.body.getter : some"
+                  moduleName = "ReOrderingGrids"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daryl/code/SwiftUI/ReOrderingGrids/ReOrderingGrids/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "9B706029-DD20-4353-BFEB-241F0B56FE84 - f9c4fe10e983bbd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.dropDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: CoreTransferable.Transferable&gt;(for: &#x3c4;_1_0.Type, action: (Swift.Array&lt;&#x3c4;_1_0&gt;, __C.CGPoint) -&gt; Swift.Bool, isTargeted: (Swift.Bool) -&gt; ()) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.dropDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: CoreTransferable.Transferable&gt;(for: &#x3c4;_1_0.Type, action: (Swift.Array&lt;&#x3c4;_1_0&gt;, __C.CGPoint) -&gt; Swift.Bool, isTargeted: (Swift.Bool) -&gt; ()) -&gt; some&gt;&gt;.0&gt;&gt;, SwiftUI.Spacer)&gt; in ReOrderingGrids.ContentView.body.getter : some"
+                  moduleName = "ReOrderingGrids"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daryl/code/SwiftUI/ReOrderingGrids/ReOrderingGrids/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "9B706029-DD20-4353-BFEB-241F0B56FE84 - 7def4f93c5816574"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.dropDestination&lt;&#x3c4;_0_0 where &#x3c4;_1_0: CoreTransferable.Transferable&gt;(for: &#x3c4;_1_0.Type, action: (Swift.Array&lt;&#x3c4;_1_0&gt;, __C.CGPoint) -&gt; Swift.Bool, isTargeted: (Swift.Bool) -&gt; ()) -&gt; some&gt;&gt;.0&gt;&gt; in ReOrderingGrids.ContentView.body.getter : some"
+                  moduleName = "ReOrderingGrids"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daryl/code/SwiftUI/ReOrderingGrids/ReOrderingGrids/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
